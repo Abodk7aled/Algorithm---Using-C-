@@ -1,0 +1,7 @@
+﻿  Problems #16 to #20 Solutions.cpp
+C:\Users\abodk\Desktop\Apps\Prog Map\04 -algorithm solution level 1\Problems (4,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\abodk\Desktop\Apps\Prog Map\04 -algorithm solution level 1\Problems (21,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\abodk\Desktop\Apps\Prog Map\04 -algorithm solution level 1\Problems (71,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\abodk\Desktop\Apps\Prog Map\04 -algorithm solution level 1\Problems (95,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\abodk\Desktop\Apps\Prog Map\04 -algorithm solution level 1\Problems (119,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Problems #16 to #20 Solutions.vcxproj -> C:\Users\abodk\Desktop\Apps\Prog Map\04 -algorithm solution level 1\Problems #16 to #20 Solutions\x64\Debug\Problems #16 to #20 Solutions.exe
